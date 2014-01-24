@@ -15,13 +15,14 @@ Resources
 
 ### DDD introductions
 
+
 - [en] [slides] https://speakerdeck.com/richardmiller/avoiding-the-mud
 - [fr] [article] http://www.infoq.com/fr/articles/seven-modelling-smells
 - [fr] [article] http://www.croes.org/gerald/blog/domain-driven-design-ddd-pour-les-intimes/866/
 - [en] [slides] https://speakerdeck.com/mathiasverraes/unbreakable-domain-models-dpc13
 - [fr] [article] http://blog.octo.com/domain-driven-design-des-armes-pour-affronter-la-complexite/
 - [en] [slides] https://speakerdeck.com/jacegu/my-domain-is-mine-and-i-dont-share-it
-
+- [fr] [video] http://www.youtube.com/watch?v=dV8EFyIRagA
 
 ### SOLID principle
 
