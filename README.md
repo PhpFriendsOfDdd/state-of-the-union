@@ -30,6 +30,7 @@ Resources
 - [en] [article] http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29
 - [fr] [article] http://afsy.fr/avent/2013/02-principes-stupid-solid-poo
 - [fr] [article] http://blog.lepine.pro/php/gerer-des-regles-metiers-complexes-etou-changeantes
+- [en] [article] http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/
 
 
 ### Code Organisation
