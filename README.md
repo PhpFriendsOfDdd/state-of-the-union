@@ -23,6 +23,7 @@ Resources
 - [fr] [article] http://blog.octo.com/domain-driven-design-des-armes-pour-affronter-la-complexite/
 - [en] [slides] https://speakerdeck.com/jacegu/my-domain-is-mine-and-i-dont-share-it
 - [fr] [video] http://www.youtube.com/watch?v=dV8EFyIRagA
+- [fr] [PDF] http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
 
 ### SOLID principle
 
