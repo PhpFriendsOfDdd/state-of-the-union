@@ -71,6 +71,14 @@ Resources
 - https://github.com/tyx/cqrs-php-sandbox
 - https://github.com/idr0id/ddd-blog
 
+### Hexagonal
+
+Also know as Entity-Boundary-Interactor or Ports and Adapters.
+
+- [Symfony2 sample application](https://github.com/MarcelloDuarte/hexagonal-symfony/)
+- [Silex sample application](https://github.com/igorw/doucheswag/)
+- [Cockburn's hexagonal explains the architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+
 
 #### Typo3/Flow3
 
