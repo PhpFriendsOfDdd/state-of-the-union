@@ -24,6 +24,7 @@ Resources
 - [en] [slides] https://speakerdeck.com/jacegu/my-domain-is-mine-and-i-dont-share-it
 - [fr] [video] http://www.youtube.com/watch?v=dV8EFyIRagA
 - [fr] [PDF] http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
+- [en] [video|slides] http://www.craftitonline.com/2014/01/ddd-series-domain-vs-frameworks-symfony2-silex-cilex-yolo-et-al/
 
 ### SOLID principle
 
