@@ -60,6 +60,7 @@ Resources
 - [en] [article] http://msdn.microsoft.com/en-us/library/jj554200.aspx
 - [en] [article] http://www.codeproject.com/Articles/555855/Introduction-to-CQRS
 - [en] [article] http://coding-insomnia.com/2012/05/28/a-trip-to-cqrs-intro/
+- [en] [slides] http://verraes.net/2014/03/practical-event-sourcing/
 
 
 ### Existing php frameworks/libraries integrations, discussions
