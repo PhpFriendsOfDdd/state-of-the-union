@@ -6,8 +6,8 @@ About
 
 Describes various php DDD and CQRS initiatives all around the universe (mainly github universe, in fact).
 
-- **DDD**: stands for **D**omain **D**riven **D**esign
-- **CQRS**: stands for **C**ommand **Q**uery **R**esponsibility **S**egregation
+- **DDD**: stands for <strong>D</strong>omain <strong>D</strong>riven <strong>D</strong>esign
+- **CQRS**: stands for <strong>C</strong>ommand <strong>Q</strong>uery <strong>R</strong>esponsibility <strong>S</strong>egregation
 
 
 Resources
