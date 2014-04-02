@@ -122,3 +122,8 @@ On twitter
 ----------
 
 - https://twitter.com/DDDBE
+
+On IRC
+------
+
+- [#DDDinPHP](irc://irc.freenode.net/#dddinphp) on Freenode
