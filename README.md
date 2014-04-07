@@ -73,6 +73,7 @@ Resources
 - https://github.com/beberlei/litecqrs-php
 - https://github.com/tyx/cqrs-php-sandbox
 - https://github.com/idr0id/ddd-blog
+- https://github.com/szjani/predaddy
 
 ### Hexagonal
 
