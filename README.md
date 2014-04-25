@@ -74,6 +74,7 @@ Resources
 - https://github.com/tyx/cqrs-php-sandbox
 - https://github.com/idr0id/ddd-blog
 - https://github.com/szjani/predaddy
+- https://github.com/malocher/cqrs-esb
 
 ### Hexagonal
 
@@ -95,7 +96,10 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 - [en] [article] http://williamdurand.fr/2013/08/20/ddd-with-symfony2-making-things-clear/
 - [en] [slides] http://qafoo.com/talks/13_12_symfonycon_domain_events.pdf
 
+#### Zend Framework 2
 
+- https://github.com/malocher/zf2-cqrs-sample
+- https://github.com/malocher/zf2-cqrs-module
 
 #### Doctrine2
 
