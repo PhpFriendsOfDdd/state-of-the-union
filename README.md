@@ -115,7 +115,17 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 - [fsharp] https://github.com/thinkbeforecoding/FsUno
 
 
+Recommended reading
+-------------------
 
+### DDD
+
+- "Domain-Driven Design: Tackling Complexity in the Heart of Software", Eric Evans, 2005
+- "Implementing Domain-Driven Design", Vaughn Vernon, 2013
+
+### Coding practices
+
+- "Patterns of Enterprise Application Architecture", Martin Fowler, 2002
 
 Other Github organisations
 --------------------------
