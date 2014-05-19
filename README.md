@@ -126,9 +126,11 @@ Recommended reading
 - ["Domain Driven Design Quickly"](http://www.infoq.com/fr/minibooks/domain-driven-design-quickly), InfoQ.com, 2006
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software", Eric Evans, 2005
 - "Applying Domain-Driven Design and Patterns: With Examples in C# and .NET", Jimmy Nilsson, 2006
-- ".NET Domain-Driven Design with C#: Problem - Design - Solution", Tim McCarthy, 2008
 - "Implementing Domain-Driven Design", Vaughn Vernon, 2013
 
+####DDD C# implementations
+
+- ".NET Domain-Driven Design with C#: Problem - Design - Solution", Tim McCarthy, 2008
 
 ### Coding practices
 
