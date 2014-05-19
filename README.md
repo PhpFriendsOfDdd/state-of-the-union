@@ -25,6 +25,7 @@ Resources
 - [fr] [video] http://www.youtube.com/watch?v=dV8EFyIRagA
 - [fr] [PDF] http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
 - [en] [video|slides] http://www.craftitonline.com/2014/01/ddd-series-domain-vs-frameworks-symfony2-silex-cilex-yolo-et-al/
+- [en] [article] http://dddsample.sourceforge.net/characterization.html
 
 ### SOLID principle
 
@@ -122,7 +123,7 @@ Recommended reading
 
 ### DDD
 
-- "Domain Driven Design Quickly", InfoQ.com, 2006
+- ["Domain Driven Design Quickly"](http://www.infoq.com/fr/minibooks/domain-driven-design-quickly), InfoQ.com, 2006
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software", Eric Evans, 2005
 - "Applying Domain-Driven Design and Patterns: With Examples in C# and .NET", Jimmy Nilsson, 2006
 - ".NET Domain-Driven Design with C#: Problem - Design - Solution", Tim McCarthy, 2008
