@@ -143,6 +143,11 @@ Other Github organisations
 - https://github.com/orgs/ddd-php
 
 
+On Discussion Groups
+----------------
+
+- [DDDinPHP](http://dddinphp.org) on Google Group
+
 On twitter
 ----------
 
