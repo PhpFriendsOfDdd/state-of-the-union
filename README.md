@@ -25,6 +25,7 @@ Resources
 - [fr] [video] http://www.youtube.com/watch?v=dV8EFyIRagA
 - [fr] [PDF] http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
 - [en] [video|slides] http://www.craftitonline.com/2014/01/ddd-series-domain-vs-frameworks-symfony2-silex-cilex-yolo-et-al/
+- [en] [article] http://dddsample.sourceforge.net/characterization.html
 
 ### SOLID principle
 
@@ -62,7 +63,8 @@ Resources
 - [en] [article] http://coding-insomnia.com/2012/05/28/a-trip-to-cqrs-intro/
 - [en] [slides] http://verraes.net/2014/03/practical-event-sourcing/
 - [en] [slides] https://speakerdeck.com/stijnvnh/cqrs-or-did-you-mean-cars
-
+- [ru] [article] http://habrahabr.ru/post/146429/
+- [ru] [article] http://habrahabr.ru/post/149464/
 
 ### Existing php frameworks/libraries integrations, discussions
 
@@ -109,7 +111,7 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 - [en] [slides] http://qafoo.com/talks/13_12_symfonycon_domain_events.pdf
 
 
-### CQRS implementations in other langages
+### CQRS implementations in other languages
 
 - [ruby] https://github.com/cavalle/banksimplistic
 - [fsharp] https://github.com/thinkbeforecoding/FsUno
@@ -121,9 +123,14 @@ Recommended reading
 
 ### DDD
 
+- ["Domain Driven Design Quickly"](http://www.infoq.com/fr/minibooks/domain-driven-design-quickly), InfoQ.com, 2006
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software", Eric Evans, 2005
+- "Applying Domain-Driven Design and Patterns: With Examples in C# and .NET", Jimmy Nilsson, 2006
 - "Implementing Domain-Driven Design", Vaughn Vernon, 2013
 
+####DDD C# implementations
+
+- ".NET Domain-Driven Design with C#: Problem - Design - Solution", Tim McCarthy, 2008
 
 ### Coding practices
 
