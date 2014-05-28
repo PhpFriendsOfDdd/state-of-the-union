@@ -35,6 +35,10 @@ Resources
 - [en] [article] http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/
 
 
+### Design patterns
+
+- https://github.com/domnikl/DesignPatternsPHP
+
 ### Code Organisation
 
 - [en] [article] http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/
