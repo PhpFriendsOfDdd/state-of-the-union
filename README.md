@@ -81,6 +81,9 @@ Resources
 - https://github.com/idr0id/ddd-blog
 - https://github.com/szjani/predaddy
 - https://github.com/malocher/cqrs-esb
+- https://github.com/prooph/event-store
+- https://github.com/prooph/service-bus
+- https://github.com/codeliner/php-ddd-cargo-sample
 
 ### Hexagonal
 
