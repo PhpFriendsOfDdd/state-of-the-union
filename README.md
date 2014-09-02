@@ -26,6 +26,7 @@ Resources
 - [fr] [PDF] http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
 - [en] [video|slides] http://www.craftitonline.com/2014/01/ddd-series-domain-vs-frameworks-symfony2-silex-cilex-yolo-et-al/
 - [en] [article] http://dddsample.sourceforge.net/characterization.html
+- [en] [video] https://www.youtube.com/watch?v=QaIGN_cTcc8
 
 ### SOLID principle
 
