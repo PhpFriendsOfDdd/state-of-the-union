@@ -85,6 +85,7 @@ Resources
 - https://github.com/prooph/event-store
 - https://github.com/prooph/service-bus
 - https://github.com/codeliner/php-ddd-cargo-sample
+- https://github.com/qandidate-labs/broadway
 
 ### Hexagonal
 
