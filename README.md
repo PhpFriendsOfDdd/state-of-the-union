@@ -57,6 +57,9 @@ Resources
 - [fr] [article] http://blog.lepine.pro/php/gerer-des-regles-metiers-complexes-etou-changeantes
 - [fr] [article] http://blog.xebia.fr/2009/12/29/le-pattern-specification-pour-la-gestion-de-vos-regles-metier/
 
+### Service Layers
+- [en] [slides] http://www.slideshare.net/rosstuck/models-and-service-layers-hemoglobin-and-hobgoblins
+- [en] [video] https://www.youtube.com/watch?v=3uV3ngl1Z8g
 
 ### CQRS / Event Sourcing
 
