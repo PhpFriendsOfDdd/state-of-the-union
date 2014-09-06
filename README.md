@@ -115,7 +115,6 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 
 - [en] [article] http://www.tibobeijen.nl/blog/2011/06/27/ddd-using-doctrine-2-a-case-study/
 - https://github.com/TBeijen/DDD-HRM/tree/v001
-- [en] [slides] https://speakerdeck.com/rosstuck/extending-doctrine-2-for-your-domain-model
 - [en] [slides] http://qafoo.com/talks/13_12_symfonycon_domain_events.pdf
 
 
