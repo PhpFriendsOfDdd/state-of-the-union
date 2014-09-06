@@ -57,6 +57,9 @@ Resources
 - [fr] [article] http://blog.lepine.pro/php/gerer-des-regles-metiers-complexes-etou-changeantes
 - [fr] [article] http://blog.xebia.fr/2009/12/29/le-pattern-specification-pour-la-gestion-de-vos-regles-metier/
 
+### Service Layers
+- [en] [slides] http://www.slideshare.net/rosstuck/models-and-service-layers-hemoglobin-and-hobgoblins
+- [en] [video] https://www.youtube.com/watch?v=3uV3ngl1Z8g
 
 ### CQRS / Event Sourcing
 
@@ -115,7 +118,6 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 
 - [en] [article] http://www.tibobeijen.nl/blog/2011/06/27/ddd-using-doctrine-2-a-case-study/
 - https://github.com/TBeijen/DDD-HRM/tree/v001
-- [en] [slides] https://speakerdeck.com/rosstuck/extending-doctrine-2-for-your-domain-model
 - [en] [slides] http://qafoo.com/talks/13_12_symfonycon_domain_events.pdf
 
 
