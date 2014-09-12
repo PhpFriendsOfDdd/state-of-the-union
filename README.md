@@ -48,6 +48,7 @@ Resources
 ### Bounded contexts
 
 - [en] [article] https://github.com/beberlei/whitewashing.de/blob/master/2013/06/24/bounded_contexts.rst
+- [en] [video] https://www.youtube.com/watch?v=aieoAWXNjl0
 
 
 ### Specification pattern
