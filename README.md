@@ -135,7 +135,7 @@ Recommended reading
 
 ### DDD
 
-- ["Domain-Driven Design with PHP by Examples"](https://leanpub.com/ddd-in-php), Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary, 2014
+- ["Domain-Driven Design in PHP"](https://leanpub.com/ddd-in-php), Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary, 2014
 - ["Domain Driven Design Quickly"](http://www.infoq.com/fr/minibooks/domain-driven-design-quickly), InfoQ.com, 2006
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software", Eric Evans, 2005
 - "Applying Domain-Driven Design and Patterns: With Examples in C# and .NET", Jimmy Nilsson, 2006
