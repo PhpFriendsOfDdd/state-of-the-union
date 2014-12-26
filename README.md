@@ -98,6 +98,7 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 - [Symfony2 sample application](https://github.com/MarcelloDuarte/hexagonal-symfony/)
 - [Silex sample application](https://github.com/igorw/doucheswag/)
 - [Cockburn's hexagonal explains the architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+- [Chris Fidao explains hexagonal architecture](http://fideloper.com/hexagonal-architecture)
 
 
 #### Typo3/Flow3
