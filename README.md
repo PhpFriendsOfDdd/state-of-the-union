@@ -99,6 +99,7 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 - [Silex sample application](https://github.com/igorw/doucheswag/)
 - [Cockburn's hexagonal explains the architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [Chris Fidao explains hexagonal architecture](http://fideloper.com/hexagonal-architecture)
+- [Palermo's onion shares the hexagonal architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1)
 
 
 #### Typo3/Flow3
