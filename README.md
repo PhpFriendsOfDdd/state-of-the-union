@@ -15,18 +15,18 @@ Resources
 
 ### DDD introductions
 
-
 - [en] [slides] https://speakerdeck.com/richardmiller/avoiding-the-mud
-- [fr] [article] http://www.infoq.com/fr/articles/seven-modelling-smells
-- [fr] [article] http://www.croes.org/gerald/blog/domain-driven-design-ddd-pour-les-intimes/866/
 - [en] [slides] https://speakerdeck.com/mathiasverraes/unbreakable-domain-models-dpc13
-- [fr] [article] http://blog.octo.com/domain-driven-design-des-armes-pour-affronter-la-complexite/
-- [en] [slides] https://speakerdeck.com/jacegu/my-domain-is-mine-and-i-dont-share-it
-- [fr] [video] http://www.youtube.com/watch?v=dV8EFyIRagA
-- [fr] [PDF] http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
 - [en] [video|slides] http://www.craftitonline.com/2014/01/ddd-series-domain-vs-frameworks-symfony2-silex-cilex-yolo-et-al/
 - [en] [article] http://dddsample.sourceforge.net/characterization.html
 - [en] [video] https://www.youtube.com/watch?v=QaIGN_cTcc8
+- [en] [slides] https://speakerdeck.com/jacegu/my-domain-is-mine-and-i-dont-share-it
+- [es] [youtube channel] http://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2
+- [fr] [article] http://www.infoq.com/fr/articles/seven-modelling-smells
+- [fr] [article] http://www.croes.org/gerald/blog/domain-driven-design-ddd-pour-les-intimes/866/
+- [fr] [article] http://blog.octo.com/domain-driven-design-des-armes-pour-affronter-la-complexite/
+- [fr] [video] http://www.youtube.com/watch?v=dV8EFyIRagA
+- [fr] [PDF] http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf
 
 ### SOLID principle
 
