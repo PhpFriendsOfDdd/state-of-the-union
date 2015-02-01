@@ -9,7 +9,6 @@ Describes various php DDD and CQRS initiatives all around the universe (mainly g
 - **DDD**: stands for <strong>D</strong>omain <strong>D</strong>riven <strong>D</strong>esign
 - **CQRS**: stands for <strong>C</strong>ommand <strong>Q</strong>uery <strong>R</strong>esponsibility <strong>S</strong>egregation
 
-
 Resources
 ---------
 
@@ -35,7 +34,6 @@ Resources
 - [fr] [article] http://blog.lepine.pro/php/gerer-des-regles-metiers-complexes-etou-changeantes
 - [en] [article] http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/
 
-
 ### Design patterns
 
 - https://github.com/domnikl/DesignPatternsPHP
@@ -44,12 +42,10 @@ Resources
 
 - [en] [article] http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/
 
-
 ### Bounded contexts
 
 - [en] [article] https://github.com/beberlei/whitewashing.de/blob/master/2013/06/24/bounded_contexts.rst
 - [en] [video] https://www.youtube.com/watch?v=aieoAWXNjl0
-
 
 ### Specification pattern
 
@@ -90,6 +86,7 @@ Resources
 - https://github.com/prooph/service-bus
 - https://github.com/codeliner/php-ddd-cargo-sample
 - https://github.com/qandidate-labs/broadway
+- https://github.com/dddinphp/ddd
 
 ### Hexagonal
 
@@ -97,10 +94,10 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 
 - [Symfony2 sample application](https://github.com/MarcelloDuarte/hexagonal-symfony/)
 - [Silex sample application](https://github.com/igorw/doucheswag/)
+- [Last Wishes: A Silex sample application](https://github.com/dddinphp/last-wishes/)
 - [Cockburn's hexagonal explains the architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [Chris Fidao explains hexagonal architecture](http://fideloper.com/hexagonal-architecture)
 - [Palermo's onion shares the hexagonal architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1)
-
 
 #### Typo3/Flow3
 
@@ -124,13 +121,11 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 - https://github.com/TBeijen/DDD-HRM/tree/v001
 - [en] [slides] http://qafoo.com/talks/13_12_symfonycon_domain_events.pdf
 
-
 ### CQRS implementations in other languages
 
 - [ruby] https://github.com/cavalle/banksimplistic
 - [fsharp] https://github.com/thinkbeforecoding/FsUno
 - [java] http://www.axonframework.org/
-
 
 Recommended reading
 -------------------
@@ -142,6 +137,7 @@ Recommended reading
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software", Eric Evans, 2005
 - "Applying Domain-Driven Design and Patterns: With Examples in C# and .NET", Jimmy Nilsson, 2006
 - "Implementing Domain-Driven Design", Vaughn Vernon, 2013
+- "Domain-Driven Design Reference: Definitions and Pattern Summaries", Eric Evans, 2014
 
 ####DDD C# implementations
 
@@ -151,12 +147,11 @@ Recommended reading
 
 - "Patterns of Enterprise Application Architecture", Martin Fowler, 2002
 
-
 Other Github organisations
 --------------------------
 
+- https://github.com/dddinphp
 - https://github.com/orgs/ddd-php
-
 
 On Discussion Groups
 ----------------
@@ -167,6 +162,7 @@ On twitter
 ----------
 
 - https://twitter.com/DDDBE
+- https://twitter.com/dddbook
 
 On IRC
 ------
