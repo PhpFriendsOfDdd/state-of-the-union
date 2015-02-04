@@ -105,7 +105,6 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 
 #### Symfony2
 
-- [Symfony app] https://github.com/mikefox/ddd
 - [en] [article] http://williamdurand.fr/2013/11/13/ddd-with-symfony2-basic-persistence-and-testing/
 - [en] [article] http://williamdurand.fr/2013/08/20/ddd-with-symfony2-making-things-clear/
 - [en] [slides] http://qafoo.com/talks/13_12_symfonycon_domain_events.pdf
