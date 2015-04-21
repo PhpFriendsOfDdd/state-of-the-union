@@ -111,8 +111,8 @@ Also know as Entity-Boundary-Interactor or Ports and Adapters.
 
 #### Zend Framework 2
 
-- https://github.com/malocher/zf2-cqrs-sample
-- https://github.com/malocher/zf2-cqrs-module
+- https://github.com/prooph/ProophEventStoreModule
+- https://github.com/prooph/ProophServiceBusModule
 
 #### Doctrine2
 
