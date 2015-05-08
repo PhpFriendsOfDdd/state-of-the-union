@@ -151,6 +151,7 @@ Other Github organisations
 
 - https://github.com/dddinphp
 - https://github.com/orgs/ddd-php
+- https://github.com/phpmentors-jp
 
 On Discussion Groups
 ----------------
