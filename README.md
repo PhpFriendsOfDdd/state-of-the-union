@@ -70,6 +70,7 @@ Resources
 - [en] [slides] https://speakerdeck.com/stijnvnh/cqrs-or-did-you-mean-cars
 - [ru] [article] http://habrahabr.ru/post/146429/
 - [ru] [article] http://habrahabr.ru/post/149464/
+- [en] [website] http://cqrs.nu/
 
 ### Existing php frameworks/libraries integrations, discussions
 
