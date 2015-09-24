@@ -19,6 +19,7 @@ Resources
 - [en] [video|slides] http://www.craftitonline.com/2014/01/ddd-series-domain-vs-frameworks-symfony2-silex-cilex-yolo-et-al/
 - [en] [article] http://dddsample.sourceforge.net/characterization.html
 - [en] [video] https://www.youtube.com/watch?v=QaIGN_cTcc8
+- [en] [video] https://www.youtube.com/watch?v=0lrPeLSq_u8
 - [en] [slides] https://speakerdeck.com/jacegu/my-domain-is-mine-and-i-dont-share-it
 - [es] [youtube channel] http://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2
 - [fr] [article] http://www.infoq.com/fr/articles/seven-modelling-smells
