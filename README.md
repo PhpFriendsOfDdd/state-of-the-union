@@ -89,6 +89,7 @@ Resources
 - https://github.com/codeliner/php-ddd-cargo-sample
 - https://github.com/qandidate-labs/broadway
 - https://github.com/dddinphp/ddd
+- https://github.com/jgimeno/taskreporter
 
 ### Hexagonal
 
