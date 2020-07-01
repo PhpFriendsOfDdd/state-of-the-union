@@ -90,6 +90,7 @@ Resources
 - https://github.com/qandidate-labs/broadway
 - https://github.com/dddinphp/ddd
 - https://github.com/jgimeno/taskreporter
+- https://github.com/ferrius/ddd-cqrs-example
 
 ### Hexagonal
 
